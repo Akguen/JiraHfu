@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- JIRA PRIMARY COLOR PALETTE -->
+    <!-- https://design.atlassian.com/product/foundations/colors/ -->
+    <color name="colorJiraPrimaryRed">#D04437</color>
+    <color name="colorJiraPrimaryNavy">#205081</color>
+    <color name="colorJiraPrimaryLightGray">#F5F5F5</color>
+    <color name="colorJiraPrimaryCharcoal">#333333</color>
+    <color name="colorJiraPrimaryBlue">#3572B0</color>
+    <color name="colorJiraPrimaryPaleBlue">#EBF2F9</color>
+    <color name="colorJiraPrimaryMediumGray">#707070</color>
+    <color name="colorJiraPrimaryGreen">#14892C</color>
+    <color name="colorJiraPrimaryYellow">#F6C342</color>
+
+
+    <!-- JIRA SECONDARY COLOR PALETTE -->
+    <!-- https://design.atlassian.com/product/foundations/colors/ -->
+    <color name="colorJiraSecondaryGray">#999999</color>
+    <color name="colorJiraSecondaryAshGray">#CCCCCC</color>
+    <color name="colorJiraSecondarySilver">#E9E9E9</color>
+    <color name="colorJiraSecondaryBrown">#815B3A</color>
+    <color name="colorJiraSecondaryCheetoOrange">#F79232</color>
+    <color name="colorJiraSecondaryTan">#F1A257</color>
+    <color name="colorJiraSecondaryLightBrown">#D39C3F</color>
+    <color name="colorJiraSecondaryCyan">#59AFE1</color>
+    <color name="colorJiraSecondarySlate">#4A6785</color>
+    <color name="colorJiraSecondaryCoolBlue">#84BBC6</color>
+    <color name="colorJiraSecondaryLimeGreen">#8EB021</color>
+    <color name="colorJiraSecondaryMidGreen">#67AB49</color>
+    <color name="colorJiraSecondaryViolet">#654982</color>
+    <color name="colorJiraSecondaryMauve">#AC707A</color>
+    <color name="colorJiraSecondaryBrightPink">#F15C75</color>
+    <color name="colorJiraSecondaryRosie">#F691B2</color>
+
+
+    <!-- JIRA DERIVATIVE COLORS -->
+    <!-- https://design.atlassian.com/product/foundations/colors/ -->
+    <color name="colorJiraDerivativePaleBlue">#CCD9EA</color>
+    <color name="colorJiraDerivativeBrightBlue">#1A8CFF</color>
+    <color name="colorJiraDerivativeDarkBrown">#594300</color>
+</resources>
