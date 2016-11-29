@@ -94,7 +94,7 @@
                      android:id="@+id/et_username"
                      android:layout_width="match_parent"
                      android:layout_height="wrap_content"
-                     android:text="Akgün"
+                     android:text="..."
                      android:hint="@string/user_name"
                      android:imeOptions="actionSend" />
 
@@ -109,7 +109,7 @@
                      android:layout_width="match_parent"
                      android:layout_height="wrap_content"
                      android:hint="@string/password"
-                     android:text="oP?014Fv_jkW38"
+                     android:text="...."
                      android:inputType="textPassword"
                      android:maxLines= "1"
                      android:imeOptions="actionSend"/>
